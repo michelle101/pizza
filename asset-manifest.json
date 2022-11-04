@@ -1,16 +1,43 @@
 {
   "files": {
-    "main.css": "/pizza/static/css/main.073c9b0a.css",
-    "main.js": "/pizza/static/js/main.3b77f26f.js",
-    "static/js/787.3a33840f.chunk.js": "/pizza/static/js/787.3a33840f.chunk.js",
-    "static/media/logo.svg": "/pizza/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/pizza/static/css/main.00b2091c.css",
+    "main.js": "/pizza/static/js/main.782581ae.js",
+    "static/media/plate1.png": "/pizza/static/media/plate1.59a8a652a76a5ea6e345.png",
+    "static/media/Sketch_Block.ttf": "/pizza/static/media/Sketch_Block.ea22827f0586995a6d61.ttf",
+    "static/media/choose2.png": "/pizza/static/media/choose2.4a4c9915eb2c6b5836d7.png",
+    "static/media/choose3.png": "/pizza/static/media/choose3.359a74d48530eaa4a6fa.png",
+    "static/media/choose1.png": "/pizza/static/media/choose1.29746932e1f902b60269.png",
+    "static/media/Montserrat-Bold.ttf": "/pizza/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/pizza/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/pasta.png": "/pizza/static/media/pasta.fc93e9e04f91eea02073.png",
+    "static/media/SCRIPTIN.ttf": "/pizza/static/media/SCRIPTIN.c87481cca0fbbd9209a1.ttf",
+    "static/media/featured1.jpg": "/pizza/static/media/featured1.b85dfce837f6277ed76c.jpg",
+    "static/media/footer_bg.jpg": "/pizza/static/media/footer_bg.86fdb419b90db6926995.jpg",
+    "static/media/featured3.jpg": "/pizza/static/media/featured3.b3443ff5f09e485e7da6.jpg",
+    "static/media/featured2.jpg": "/pizza/static/media/featured2.9b9a0a7b387c754a5e77.jpg",
+    "static/media/tomato.png": "/pizza/static/media/tomato.1d903ce2d050fe0f89a9.png",
+    "static/media/ribbon-pasta.png": "/pizza/static/media/ribbon-pasta.5970d6a33e0ec6096f49.png",
+    "static/media/leaf1.png": "/pizza/static/media/leaf1.019f8e07db4c5369b40c.png",
+    "static/media/leaf2.png": "/pizza/static/media/leaf2.fae442ee353413c64892.png",
+    "static/media/logo_black.png": "/pizza/static/media/logo_black.6259c2f9e482c291a720.png",
+    "static/media/location.png": "/pizza/static/media/location.b0ded80316ad6d2bc134.png",
+    "static/media/instagram.png": "/pizza/static/media/instagram.ef6f75fcc54050d74a38.png",
+    "static/media/phone_soc.png": "/pizza/static/media/phone_soc.75aa96a5b02dc46f78cf.png",
+    "static/media/twitter.png": "/pizza/static/media/twitter.aa38cf6775d8aa2c9d28.png",
+    "static/media/facebook.png": "/pizza/static/media/facebook.6f0637328a29e620e050.png",
+    "static/media/email.png": "/pizza/static/media/email.d121de4395cbf4616dc7.png",
+    "static/media/phone.png": "/pizza/static/media/phone.807373faf7db2a79f028.png",
+    "static/media/logo_yellow.png": "/pizza/static/media/logo_yellow.a0295c71dcc686be7b38.png",
+    "static/media/slick.svg": "/pizza/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/pizza/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/pizza/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/pizza/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/pizza/index.html",
-    "main.073c9b0a.css.map": "/pizza/static/css/main.073c9b0a.css.map",
-    "main.3b77f26f.js.map": "/pizza/static/js/main.3b77f26f.js.map",
-    "787.3a33840f.chunk.js.map": "/pizza/static/js/787.3a33840f.chunk.js.map"
+    "main.00b2091c.css.map": "/pizza/static/css/main.00b2091c.css.map",
+    "main.782581ae.js.map": "/pizza/static/js/main.782581ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3b77f26f.js"
+    "static/css/main.00b2091c.css",
+    "static/js/main.782581ae.js"
   ]
 }
