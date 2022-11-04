@@ -1,0 +1,41 @@
+.boxes{
+    text-align: center;
+}
+.boxes img{
+    margin: 0 auto 40px  auto;
+}
+
+.boxes p{
+    margin-bottom: 25px;
+}
+
+button.slick-prev{
+    color: #000;
+}
+
+@media only screen and (max-width: 1440px) {
+    .boxes img{
+        width:70%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .boxes h3{
+        font-size: 2vw;
+    }
+}
+
+
+@media only screen and (max-width: 400px) {
+    .boxes h3{
+        font-size: 3vw;
+        padding: 0 10px;
+    }
+    .boxes p {
+        font-size: 11px;
+    }
+    .boxes button{
+        font-size: 10px;
+        padding: 3px 5px;
+    }
+}
